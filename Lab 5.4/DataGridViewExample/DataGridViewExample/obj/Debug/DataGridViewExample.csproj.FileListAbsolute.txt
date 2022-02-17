@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.4\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
