@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.2\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
