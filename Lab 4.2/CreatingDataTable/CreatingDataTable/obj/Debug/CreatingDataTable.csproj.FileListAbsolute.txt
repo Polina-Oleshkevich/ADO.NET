@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.2\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
