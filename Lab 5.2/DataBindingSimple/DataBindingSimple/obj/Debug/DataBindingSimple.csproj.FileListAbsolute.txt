@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.2\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
