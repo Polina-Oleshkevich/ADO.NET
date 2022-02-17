@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.6\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb
