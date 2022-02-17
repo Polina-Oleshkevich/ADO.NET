@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.3\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
