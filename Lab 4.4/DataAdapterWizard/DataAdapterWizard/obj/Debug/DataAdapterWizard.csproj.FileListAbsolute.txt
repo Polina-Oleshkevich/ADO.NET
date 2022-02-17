@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.4\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
