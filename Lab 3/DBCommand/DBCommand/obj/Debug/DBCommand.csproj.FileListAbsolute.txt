@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 3\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
