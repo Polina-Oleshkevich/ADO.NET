@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 6.1\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
