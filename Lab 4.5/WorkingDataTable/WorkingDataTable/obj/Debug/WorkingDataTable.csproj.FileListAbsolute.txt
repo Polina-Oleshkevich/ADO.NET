@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4.5\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
