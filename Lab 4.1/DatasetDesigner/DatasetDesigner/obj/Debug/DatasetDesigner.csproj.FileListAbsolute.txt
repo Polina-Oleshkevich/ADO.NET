@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
