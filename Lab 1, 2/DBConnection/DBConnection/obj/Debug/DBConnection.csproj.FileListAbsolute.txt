@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 1\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
