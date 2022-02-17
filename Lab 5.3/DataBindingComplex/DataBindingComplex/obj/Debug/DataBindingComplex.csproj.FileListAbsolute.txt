@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\Lab 5.3\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
