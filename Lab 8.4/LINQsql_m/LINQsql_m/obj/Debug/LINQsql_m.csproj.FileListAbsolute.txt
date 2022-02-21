@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Users\User\source\repos\ITMO.ADO.NET\LINQ\Lab 8.4\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
